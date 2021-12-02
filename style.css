@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+div{border: 3px solid;
+    margin: 15%;
+    background-color: rgb(255, 196, 0);
+    width: 200px;
+    height: 200px;
+    box-shadow:  inset 10px 10px 10px ;
+    text-align: center;
+    font-size: 30px;
+    color: darkblue;
+    text-shadow: 2px 3px 4px #0080c0;
+}
+img{
+    border-radius: 10px 10px 10px ;
+}
